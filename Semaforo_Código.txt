@@ -1,3 +1,4 @@
+//Nicolas Campos Marceniuk/Thunderer
 #include <SoftwareSerial.h>
 
 SoftwareSerial SerialBT(52,53);
@@ -501,3 +502,4 @@ void loop(){
   	digitalWrite(23, HIGH);
   		delay(pp); }
 }
+//Nicolas Campos Marceniuk/Thunderer
